@@ -796,7 +796,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>70</X>
-			<Y>338</Y>
+			<Y>308</Y>
 		</Location>
 		<Size>
 			<CX>120</CX>
@@ -832,7 +832,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>300</X>
-			<Y>338</Y>
+			<Y>308</Y>
 		</Location>
 		<Size>
 			<CX>120</CX>
@@ -1123,7 +1123,7 @@
 		<!--<SoundFlyby/>-->
 	</Button>
 
-	<Button item = "">
+	<Button item = "SBW_MeditateButton">
 		<ScreenID>MeditateButton</ScreenID>
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
@@ -1169,7 +1169,7 @@
 		</Location>
 		<Size>
 			<CX>492</CX>
-			<CY>6090</CY>
+			<CY>365</CY>
 		</Size>
 		<Text>Spell Book</Text>
 		<Style_Transparent>false</Style_Transparent>
@@ -1225,7 +1225,7 @@
 		<Pieces>SBW_LeftPageNum</Pieces>
 		<Pieces>SBW_RightPageNum</Pieces>
 		<Pieces>SBW_DoneButton</Pieces>
-		<Pieces></Pieces>
+		<Pieces>SBW_MeditateButton</Pieces>
 	</Screen>
 
 </XML>
