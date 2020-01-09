@@ -600,7 +600,8 @@
     </Titlebar>
   </WindowDrawTemplate>
   <WindowDrawTemplate item="WDT_RoundedNoTitle">
-    <Background>wnd_bg_light_rock.tga</Background>
+    <!--<Background>wnd_bg_light_rock.tga</Background>-->
+    <Background>wnd_bg_gray.188.tga</Background>
     <VSBTemplate>
       <UpButton>
         <Normal>A_VSBUpNormal</Normal>
