@@ -86,6 +86,42 @@
 			<CY>256</CY>
 		</Size>
 	</TextureInfo>
+	<TextureInfo item = "wnd_bg_gray.188.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "wnd_bg_gray.217.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "wnd_bg_gray.230.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "wnd_bg_black.188.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "wnd_bg_black.217.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+	<TextureInfo item = "wnd_bg_black.230.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
 	<TextureInfo item = "window_pieces01.tga">
 		<Size>
 			<CX>256</CX>
