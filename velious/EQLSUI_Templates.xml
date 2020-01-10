@@ -2,7 +2,7 @@
 <XML ID = "EQInterfaceDefinitionLanguage">
 	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
 	<WindowDrawTemplate item = "WDT_EQLS_Def_NoFrame">
-		<Background>EQLS_BlackFill.tga</Background>
+		<Background>wnd_bg_gray.217.tga</Background>
 		<VSBTemplate>
 			<UpButton>
 				<Normal>A_EQLS_VSBUpNormal</Normal>
@@ -67,7 +67,7 @@
 		</Titlebar>
 	</WindowDrawTemplate>
 	<WindowDrawTemplate item = "WDT_EQLS_Def_Bordered">
-		<Background>EQLS_BlackFill.tga</Background>
+		<Background>wnd_bg_gray.217.tga</Background>
 		<VSBTemplate>
 			<UpButton>
 				<Normal>A_EQLS_VSBUpNormal</Normal>
@@ -88,7 +88,7 @@
 				<OverlapRight>0</OverlapRight>
 				<OverlapBottom>0</OverlapBottom>
 			</Thumb>
-			<MiddleTextureInfo>EQLS_BlackFill.tga</MiddleTextureInfo>
+			<MiddleTextureInfo>wnd_bg_gray.217.tga</MiddleTextureInfo>
 			<MiddleTint>
 				<Alpha>255</Alpha>
 				<R>128</R>
@@ -169,7 +169,7 @@
 
 
 	<WindowDrawTemplate item = "WDT_Def">
-		<Background>wnd_bg_light_rock.tga</Background>
+		<Background>wnd_bg_gray.188.tga</Background>
 		<VSBTemplate>
 			<UpButton>
 				<Normal>A_EQLS_VSBUpNormal</Normal>
